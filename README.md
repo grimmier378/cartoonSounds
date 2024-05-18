@@ -21,3 +21,39 @@
  * * This is useful if you want to have different sounds for different characters.
  
  In the future I may add the ability to add custom events from the GUI.
+ 
+ ## Instructions
+
+```
+-------------- Cartoon Sounds Help -----------------------------
+
+ /sillysounds hit             Toggles sound on and off for your hits
+ /sillysounds bonk            Toggles sound on and off for you being hit
+ /sillysounds fizzle          Toggles sound on and off for your spell fizzles
+ /sillysounds lvl             Toggles sound on and off for when you Level
+ /sillysounds aa              Toggles sound on and off for You gain AA
+ /sillysounds die             Toggles sound on and off for your Deaths
+ /sillysounds hp              Toggles sound on and off for Low Health
+ /sillysounds hp 1-100        Sets PctHPs to toggle low HP sound, 1-100
+
+-------------- Cartoon Sounds Volume Control ----------------------
+
+ /sillysounds hit 0-100       Sets Volume for hits 0-100 accepts decimal values
+ /sillysounds bonk 0-100      Sets Volume for bonk 0-100 accepts decimal values
+ /sillysounds fizzle 0-100    Sets Volume for fizzle 0-100 accepts decimal values
+ /sillysounds lvl 0-100       Sets Volume for lvl 0-100 accepts decimal values
+ /sillysounds aa 0-100        Sets Volume for AA 0-100 accepts decimal values
+ /sillysounds die 0-100       Sets Volume for die 0-100 accepts decimal values
+ /sillysounds volhp 0-100     Sets Volume for lowHP 0-100 accepts decimal values
+
+-------------- Cartoon Sounds Other -------------------------------
+
+ /sillysounds help            Brings up this list
+ /sillysounds config          Opens Config GUI Window
+ /sillysounds show            Prints out the current settings
+ /sillysounds quit            Exits the script
+``` 
+ 
+ ## Config Window
+
+![image](https://github.com/grimmier378/cartoonSounds/assets/124466615/b11e6dcd-5eb6-45eb-b91d-c88b12658f73)
